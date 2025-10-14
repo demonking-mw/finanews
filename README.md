@@ -7,7 +7,7 @@ An internet-based news aggregator, providing hot news scraping on popular news s
 - __Front end:( React, Node.js, JWT)__
     + Built a responsive single-page web application for users to browse news (React, Node.js, RPC, SOA, JWT)
 
-- __Back end:(Python RPC, MongoDB, Redis, RabbitMQ, TF-IDF, NLP)__
+- __Back end:(Python RPC, machine learning)__
     + Service Oriented, multiple backends serving via JSON RPC
     + Implemented a data pipeline which monitors, scrapes and deduplicates news
 
